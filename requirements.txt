@@ -1,8 +1,8 @@
 streamlit
 chromadb
 pypdf
-langchain
+langchain>=0.1.14
+langchain-community
 pyttsx3
 ollama
 PyMuPDF
-
