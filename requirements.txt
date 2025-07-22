@@ -4,3 +4,5 @@ pypdf
 langchain
 pyttsx3
 ollama
+PyMuPDF
+
