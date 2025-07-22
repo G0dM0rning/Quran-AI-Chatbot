@@ -6,3 +6,4 @@ langchain-community
 pyttsx3
 ollama
 PyMuPDF
+gTTS
